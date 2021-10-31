@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Samir
+- 👀 Currently building an awesome tool. Stay tuned.
+- 📫 You can reach me at samitimez@gmail.com
